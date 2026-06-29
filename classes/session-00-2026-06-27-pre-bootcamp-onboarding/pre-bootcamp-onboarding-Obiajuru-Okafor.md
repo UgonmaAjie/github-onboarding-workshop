@@ -1,4 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — Obiajuru Okafor
 
 > **How to use this file:**
 > 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
@@ -13,8 +13,8 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
+- This was our onboarding session for the Microsoft security group, setting expectations for how the programme will run
+-We were walked through the core GitHub workflow,forking the main repository, adding and committing files to our own fork
 -
 
 ---
@@ -24,12 +24,14 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+I already had a GitHub account, so I signed in and followed along through the full submission workflow end to end. I forked the main repository into my own account, navigated into the relevant session folder, and used Add file → Upload files to add a file. I then committed the change and opened a pull request from my fork back to the main repository so the facilitator could review it.
 
 ### What happened / Result
-
+The full workflow was completed successfully
 
 ### Challenges I faced
+The session went mostly smoothly for me. Having an existing GitHub account meant I could skip account creation and focus on understanding the fork-and-pull-request flow, which was the part I most wanted to get right.
+
 
 
 ---
@@ -37,14 +39,14 @@
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-
+The most valuable thing was getting hands-on with the actual submission process rather than just hearing it described. Knowing the fork → commit → pull request flow removes any friction from future assignments
 
 ---
 
 ## Questions I Still Have
 
 <!-- Anything you want to follow up on or ask the mentor -->
-
+For each assignment, should we open a fresh pull request, or is there a preferred way to keep submissions organised within our fork?
 -
 -
 
